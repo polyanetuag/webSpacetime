@@ -9,7 +9,9 @@
 
 
 ## 🚀 Tecnologias Utilizadas
-
+- React
+- Typescript
+  
 
 ## ⏱️ Iniciar projeto
 
