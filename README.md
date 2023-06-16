@@ -11,6 +11,7 @@
 ## 🚀 Tecnologias Utilizadas
 - React
 - Typescript
+- CSS
   
 
 ## ⏱️ Iniciar projeto
