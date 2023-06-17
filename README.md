@@ -11,7 +11,7 @@ O projeto webSpacetime é uma aplicação para visualização interativa de suas
 ## 🚀 Tecnologias Utilizadas
 - React
 - Typescript
-- CSS
+- TailwindCSS
   
 
 ## ⏱️ Iniciar projeto
