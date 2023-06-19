@@ -28,9 +28,6 @@ $ yarn install
 # Execute o servidor de desenvolvimento:
 $ yarn start
 
-# Execute os testes:
-$ yarn test
-
 ```
 
 ## 📋 Licença
