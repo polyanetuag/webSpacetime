@@ -7,7 +7,7 @@
 ## 📚 Sobre
 O projeto webSpacetime é uma aplicação de visualização interativa de memórias, funcionando como uma cápsula do tempo.
 
-Nela, você pode adicionar novas memórias em um mural e visualizá-las no seu espaço-tempo.
+Nela, você pode adicionar novas memórias em um mural e visualizá-las em um espaço-tempo.
 
 
 ## 🚀 Tecnologias Utilizadas
