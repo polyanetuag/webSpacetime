@@ -11,7 +11,7 @@ Nela, você pode adicionar novas memórias em um mural e visualizá-las em um es
 
 
 ## 🚀 Tecnologias Utilizadas
-- React
+- ReactJs
 - Typescript
 - TailwindCSS
   
