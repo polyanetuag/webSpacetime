@@ -1,4 +1,4 @@
-<h1 align="center">Cápsula do Tempo</h1>
+<h1 align="center">Cápsula do Tempo ⌛</h1>
 
 ## 📚 Sobre
 O projeto **webSpacetime** é uma aplicação de visualização interativa de memórias, funcionando como uma espécie de cápsula do tempo.
