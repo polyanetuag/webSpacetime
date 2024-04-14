@@ -1,7 +1,7 @@
 <h1 align="center">Cápsula do Tempo ⌛</h1>
 
 ## 📚 Sobre
-O projeto ***webSpacetime*** é uma aplicação que te permite ter uma visualização interativa temporal de suas memórias, funcionando como uma espécie de cápsula do tempo.
+O projeto ***webSpacetime*** é uma aplicação que te permite ter uma visualização interativa de suas memórias, funcionando como uma espécie de cápsula do tempo.
 
 Nela, você pode adicionar memórias (fotos e/ou vídeos) em um mural e visualizá-las por data, tracando uma linha de "espaço-tempo".
 
