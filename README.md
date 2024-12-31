@@ -8,7 +8,7 @@ Nela, você pode adicionar memórias (fotos e/ou vídeos) em um mural e visualiz
 
 ## 🚀 Tecnologias Utilizadas
 - [ReactJs](https://legacy.reactjs.org/docs/getting-started.html)
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 - TailwindCSS
   
 
